@@ -1,6 +1,8 @@
 package clic4go
 
 import (
+	. "github.com/synesissoftware/CliC4.Go"
+
 	"github.com/stretchr/testify/require"
 
 	"testing"

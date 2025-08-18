@@ -1,5 +1,12 @@
 # CliC4.Go <!-- omit in toc -->
 
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![GitHub release](https://img.shields.io/github/v/release/synesissoftware/GLiC4.Go.svg)](https://github.com/synesissoftware/GLiC4.Go/releases/latest)
+[![Last Commit](https://img.shields.io/github/last-commit/synesissoftware/GLiC4.Go)](https://github.com/synesissoftware/GLiC4.Go/commits/master)
+[![Go](https://github.com/synesissoftware/GLiC4.Go/actions/workflows/go.yml/badge.svg)](https://github.com/synesissoftware/GLiC4.Go/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/synesissoftware/GLiC4.Go)](https://goreportcard.com/report/github.com/synesissoftware/GLiC4.Go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/synesissoftware/GLiC4.Go.svg)](https://pkg.go.dev/github.com/synesissoftware/GLiC4.Go)
+
 C++-like Collections for Go
 
 
@@ -15,11 +22,11 @@ T.B.C.
 - [Components](#components)
 - [Examples](#examples)
 - [Project Information](#project-information)
-  - [Where to get help](#where-to-get-help)
-  - [Contribution guidelines](#contribution-guidelines)
-  - [Dependencies](#dependencies)
-  - [Related projects](#related-projects)
-  - [License](#license)
+	- [Where to get help](#where-to-get-help)
+	- [Contribution guidelines](#contribution-guidelines)
+	- [Dependencies](#dependencies)
+	- [Related projects](#related-projects)
+	- [License](#license)
 
 
 ## Installation
@@ -54,6 +61,8 @@ Defect reports, feature requests, and pull requests are welcome on https://githu
 
 
 ### Dependencies
+
+* [**ver2go**](https://github.com/synesissoftware/ver2go/)
 
 
 ### Related projects
