@@ -1,0 +1,2 @@
+CliC4.Go provides C++-like collections for Go
+Copyright (c) 2019-2026, Matthew Wilson and Synesis Information Systems
